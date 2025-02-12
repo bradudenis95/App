@@ -112,6 +112,7 @@
     "@shopify/flash-list": "1.7.1",
     "@ua/react-native-airship": "19.2.1",
     "awesome-phonenumber": "^5.4.0",
+    "axios": "1.13.4",
     "babel-polyfill": "^6.26.0",
     "canvas-size": "^1.2.6",
     "core-js": "^3.32.0",
@@ -192,7 +193,9 @@
     "react-plaid-link": "3.3.2",
     "react-web-config": "^1.0.0",
     "react-webcam": "^7.1.1",
-    "react-window": "^1.8.9"
+    "react-window": "^1.8.9",
+    "socket.io": "4.8.3",
+    "socket.io-client": "4.8.3"
   },
   "devDependencies": {
     "@actions/core": "1.10.0",
